@@ -1,0 +1,62 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  background: linear-gradient(135deg, #f0f4ff, #e8faff);
+  min-height: 100vh;
+}
+
+.card {
+  max-width: 1200px;
+  width: 100%;
+  border-radius: 20px !important;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.12) !important;
+  background: #ffffff;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+.header {
+  font-weight: bold !important;
+  color: #1a237e;
+  text-align: center;
+  margin-bottom: 10px !important;
+}
+
+.subHeader {
+  font-weight: 600 !important;
+  margin-bottom: 10px !important;
+  color: #1976d2;
+}
+
+.divider {
+  margin: 10px 0 !important;
+}
+
+.leftPanel {
+  padding: 10px 10px;
+  border-right: 2px dashed #cfd8dc;
+}
+
+.rightPanel {
+  padding: 5px;
+  background: #9eccfa;
+  border-radius: 10px;
+}
+
+.input {
+  margin-bottom: 15px !important;
+}
+
+.mealLabel {
+  font-weight: 500;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.total {
+  color: #d32f2f;
+  font-weight: bold !important;
+  margin-top: 10px;
+}
