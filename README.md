@@ -1,6 +1,8 @@
 # Smart-Travel-Help-Agent
 STHA is a smart, real-world-aware travel assistant app that transforms the way people travel by combining intelligent trip planning, real-time location-aware suggestions, and social travel connectivity. Powered by the Foursquare Places API, enriched with AI and geolocation data.
 
+### Project Demo - https://youtu.be/EgpYnFYdyzI
+
 <img width="1366" height="768" alt="Screenshot (2784)" src="https://github.com/user-attachments/assets/e39513b8-60b5-43e6-a1df-2d417c98c34a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f41f97ea-73f1-4837-a51c-b810fd1fb7ce" />
 <img width="1366" height="768" alt="Screenshot (2785)" src="https://github.com/user-attachments/assets/1e546044-94b2-4cda-88c7-2fcab3a64218" />
